@@ -18,7 +18,7 @@ const perfil = ({ navigation }: { navigation: perfilNavigationProp }) => {
         contentInsetAdjustmentBehavior="automatic">
         <Image
           style={styles.fotoperfil}
-          source={require('./imagenes/personal_foto.jpg')}
+          source={require('./imagenes/personal_foto.jpeg')}
         />
         <Text style={styles.encabezado}>DIEGO ERNESTO BURGOS MEZA</Text>
         
